@@ -1,0 +1,23 @@
+{
+  "name": "backend_74305",
+  "version": "1.0.0",
+  "description": "Proyecto de mini servdidor de la clase N° 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauroFGarcia87/backEnd1.git"
+  },
+  "keywords": [],
+  "author": "Mauro Fabian Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauroFGarcia87/backEnd1/issues"
+  },
+  "homepage": "https://github.com/MauroFGarcia87/backEnd1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
